@@ -32,17 +32,18 @@
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
 		
-		<dependency><!--for creating swagger from code-->
+		<!--for creating swagger from code-->
+		<!--<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
 			<version>2.3.0</version>
-		</dependency>
+		</dependency>-->
 		
 		<!--for content negotiation ( Accept header )-->
-		<dependency>
+		<!--<dependency>
 			<groupId>com.fasterxml.jackson.dataformat</groupId>
 			<artifactId>jackson-dataformat-xml</artifactId>
-		</dependency>
+		</dependency>-->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
